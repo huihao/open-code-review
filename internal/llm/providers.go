@@ -75,6 +75,8 @@ var registry = []Provider{
 			"glm-5.1",
 			"glm-5",
 			"MiniMax-M2.5",
+			"mimo-v2.5-pro",
+			"mimo-v2.5",
 		},
 	},
 	{
